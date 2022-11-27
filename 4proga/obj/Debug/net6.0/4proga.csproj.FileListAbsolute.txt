@@ -1,0 +1,15 @@
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\bin\Debug\net6.0\4proga.exe
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\bin\Debug\net6.0\4proga.deps.json
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\bin\Debug\net6.0\4proga.runtimeconfig.json
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\bin\Debug\net6.0\4proga.dll
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\bin\Debug\net6.0\4proga.pdb
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.csproj.AssemblyReference.cache
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.AssemblyInfoInputs.cache
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.AssemblyInfo.cs
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.csproj.CoreCompileInputs.cache
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.dll
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\refint\4proga.dll
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.pdb
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\4proga.genruntimeconfig.cache
+C:\Users\Original\Desktop\Учёба GB\Знакомство с языками программирования. Лекции\1les\4proga\obj\Debug\net6.0\ref\4proga.dll
