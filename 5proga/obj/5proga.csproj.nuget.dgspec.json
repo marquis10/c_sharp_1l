@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Original\\Desktop\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj": {}
+    "D:\\kaa006\\Информация\\GB\\Знакомство с языками программирования\\Лекции\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Original\\Desktop\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj": {
+    "D:\\kaa006\\Информация\\GB\\Знакомство с языками программирования\\Лекции\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Original\\Desktop\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj",
+        "projectUniqueName": "D:\\kaa006\\Информация\\GB\\Знакомство с языками программирования\\Лекции\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj",
         "projectName": "5proga",
-        "projectPath": "C:\\Users\\Original\\Desktop\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj",
-        "packagesPath": "C:\\Users\\Original\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Original\\Desktop\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\obj\\",
+        "projectPath": "D:\\kaa006\\Информация\\GB\\Знакомство с языками программирования\\Лекции\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\5proga.csproj",
+        "packagesPath": "C:\\Users\\kaa006\\.nuget\\packages\\",
+        "outputPath": "D:\\kaa006\\Информация\\GB\\Знакомство с языками программирования\\Лекции\\Учёба GB\\Знакомство с языками программирования. Лекции\\1les\\5proga\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Original\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kaa006\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
